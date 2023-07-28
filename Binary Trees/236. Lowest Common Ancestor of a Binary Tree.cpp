@@ -35,3 +35,7 @@ public:
         return solve(root,p,q);
     }
 };
+
+//TC = O(N)
+//SC = O(N)
+//N = no of nodes
